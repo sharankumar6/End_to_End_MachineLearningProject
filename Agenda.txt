@@ -4,3 +4,7 @@
 	c. create requirements.txt 
 
 2. Created Src folder and build the Package
+
+3. Created project Structure, logging and Exception Handling
+
+4. Project Problem Statement, EDA and Model Training
